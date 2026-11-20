@@ -72,7 +72,7 @@ If you use this tool in your work, please cite it:
 
 > Kalski, R. (2026). *Pockmark Stats Finder: a QGIS plugin for measuring pockmarks
 > from hand-drawn outlines* (Version 1.0.0) [Computer software].
-> https://doi.org/10.5281/zenodo.24393955
+> https://doi.org/10.5281/zenodo.24398899
 
 The **Cite this repository** button on this page gives other formats, such as BibTeX.
 
