@@ -1,9 +1,10 @@
 [general]
 name=Pockmark Stats Finder
 qgisMinimumVersion=3.22
+qgisMaximumVersion=4.99
 supportsQt6=True
 description=Measures seafloor pockmarks from outlines you draw by hand on a bathymetry grid.
-version=1.0.0
+version=1.0.1
 author=Ramon Kalski
 email=ramonkalski@gmail.com
 about=Pick your bathymetry grid and your layer of pockmark outlines, then click Run. For each outline the tool finds the center and the deepest point near it, and measures size, depth and volume below the rim, shape, direction, slopes, the nearest other pockmark, and whether it sits inside another one. You get three new layers: your outlines with all the numbers, the centers, and the bottoms. Nothing extra to install.
