@@ -8,7 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0003-5342-1941"
 version: 1.0.0
 date-released: "2026-11-20"
-# doi: 10.5281/zenodo.0000000
+doi: 10.5281/zenodo.24393955
 license: GPL-2.0-or-later
 repository-code: "https://github.com/RamonKalski/pockmark-stats-finder"
 abstract: >-
