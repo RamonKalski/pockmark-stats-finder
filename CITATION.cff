@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Pockmark Stats Finder: a QGIS plugin for measuring pockmarks from hand-drawn outlines"
+type: software
+authors:
+  - family-names: Kalski
+    given-names: Ramon
+    orcid: "https://orcid.org/0009-0003-5342-1941"
+version: 1.0.0
+date-released: "2026-11-20"
+# doi: 10.5281/zenodo.0000000
+license:
+  - MIT
+  - GPL-2.0-or-later
+repository-code: "https://github.com/RamonKalski/pockmark-stats-finder"
+abstract: >-
+  A QGIS plugin that measures seafloor pockmarks from outlines drawn by hand on a
+  bathymetry grid. For each outline it finds the center and the deepest point near
+  the center, and measures size, depth and volume below the rim, shape, direction,
+  slopes, the nearest other pockmark, and whether it sits inside another one.
+keywords:
+  - pockmark
+  - bathymetry
+  - seafloor
+  - QGIS
+  - morphometry

@@ -1,0 +1,27 @@
+Pockmark Stats Finder
+Copyright (c) 2026 Ramon Kalski
+
+This project uses two licenses.
+
+1. The measuring code is under the MIT License:
+     pockmark_stats_finder/pmcore.py
+     tests/test_pmcore.py
+   Full text: pockmark_stats_finder/LICENSE-MIT
+
+   It uses no QGIS code, so anyone may reuse it in their own work,
+   with credit.
+
+2. The QGIS plugin code is under the GNU General Public License,
+   version 2 or (at your option) any later version (GPL-2.0-or-later):
+     pockmark_stats_finder/__init__.py
+     pockmark_stats_finder/plugin.py
+     pockmark_stats_finder/provider.py
+     pockmark_stats_finder/algorithm.py
+   Full text: pockmark_stats_finder/LICENSE
+
+   These files use QGIS, which is licensed under the GPL.
+
+Each code file names its license in its first lines.
+
+The example files (examples/ and docs/example.png) show made-up seafloor
+and may be used freely under the MIT License.
