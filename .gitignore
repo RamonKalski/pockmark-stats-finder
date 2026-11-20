@@ -1,0 +1,23 @@
+# Python leftovers
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Mac and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# built plugin zips (attach these to a GitHub Release instead)
+*.zip
+
+# survey data and results stay out of the code repository
+data/
+results/
+*.tif
+*.asc
+*.gpkg
+
+# except the small made-up example files
+!examples/*.tif
+!examples/*.gpkg
