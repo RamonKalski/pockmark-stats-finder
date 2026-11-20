@@ -9,9 +9,7 @@ authors:
 version: 1.0.0
 date-released: "2026-11-20"
 # doi: 10.5281/zenodo.0000000
-license:
-  - MIT
-  - GPL-2.0-or-later
+license: GPL-2.0-or-later
 repository-code: "https://github.com/RamonKalski/pockmark-stats-finder"
 abstract: >-
   A QGIS plugin that measures seafloor pockmarks from outlines drawn by hand on a
