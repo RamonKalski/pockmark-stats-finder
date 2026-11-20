@@ -1,5 +1,10 @@
 # Changes
 
+## 1.0.1 (2026-11-20)
+
+- QGIS 4 can now install the plugin. The plugin info said it only worked up to
+  QGIS 3.99, so QGIS 4 refused it. The tool itself is unchanged.
+
 ## 1.0.0 (2026-11-20)
 
 First public release.
