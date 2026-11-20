@@ -1,6 +1,6 @@
 # Pockmark Stats Finder
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24393955.svg)](https://doi.org/10.5281/zenodo.24393955)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24398899.svg)](https://doi.org/10.5281/zenodo.24398899)
 
 A QGIS plugin that measures seafloor pockmarks from outlines you draw by hand.
 
