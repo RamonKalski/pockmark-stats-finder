@@ -6,7 +6,7 @@ authors:
   - family-names: Kalski
     given-names: Ramon
     orcid: "https://orcid.org/0009-0003-5342-1941"
-version: 1.0.0
+version: 1.0.1
 date-released: "2026-11-20"
 doi: 10.5281/zenodo.24393955
 license: GPL-2.0-or-later
